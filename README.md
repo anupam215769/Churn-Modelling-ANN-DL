@@ -142,18 +142,4 @@ In this variation, the gradient descent procedure described above is run but the
 
 ![hid](https://i.imgur.com/vH92KAe.png)
 
-## Credit
-
-**Coded By**
-
-[Anupam Verma](https://github.com/anupam215769)
-
-<a href="https://github.com/anupam215769/Churn-Modelling-ANN-DL/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=anupam215769/Churn-Modelling-ANN-DL" />
-</a>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-verma-383855223/)
-
-
-
 
